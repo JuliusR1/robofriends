@@ -1,0 +1,6 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: monospace;
+  background: linear-gradient(to left, rgb(228, 33, 228), rgb(52, 197, 255) 100%);
+}
